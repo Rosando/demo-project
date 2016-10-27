@@ -1,2 +1,5 @@
-# demo-project
-This is a demo project
+# Demo Project
+
+### with @rosando
+
+This is a demo project.
